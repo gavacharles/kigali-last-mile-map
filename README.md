@@ -6,6 +6,8 @@ It explores where dense neighbourhoods have a long walk to recorded transport, a
 
 **The results are provisional.** The routes are modelled candidates, not proposed services or a transport plan. Costs and demand are placeholders. Nothing has been checked in the field or reviewed by operators. Moto-taxi riders and bus operators are central to transport here, and any feeder would need to be developed with them.
 
+Working draft for a supervisor and research team. It shows all available layers. Levels 7 and 8 have not been run for Kigali.
+
 ## Data sources
 - OpenStreetMap contributors (ODbL)
 - Kigali route file via Digital Transport for Africa (2019 to 2021)
